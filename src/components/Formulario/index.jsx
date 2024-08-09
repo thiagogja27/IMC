@@ -62,6 +62,9 @@ const Formulario = () => {
             <p>{mensagemResultado}</p>
           </>
         )}
+                <div>
+        <img className="container" src="https://escolaeducacao.com.br/wp-content/uploads/2020/04/tabela-imc.jpg" alt="" />
+    </div>
       </form>
     </div>
   );
